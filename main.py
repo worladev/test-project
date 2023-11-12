@@ -8,7 +8,7 @@ def age(user_age):
 
 #Changed the name and age
 if __name__ == '__main__':
-    greet('Emmanuel')
+    greet('EmmanuelT')
     age(38)
 
 
