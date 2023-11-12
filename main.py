@@ -6,9 +6,9 @@ def greet(name):
 def age(user_age):
     print(f'Your are {user_age} years old')
 
-
+#Changed the name and age
 if __name__ == '__main__':
-    greet('Confidence')
-    age(25)
+    greet('EmmanuelT')
+    age(38)
 
 
